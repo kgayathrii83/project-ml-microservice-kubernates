@@ -19,5 +19,3 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 ### Files in the repository 
 * output_txt_files/docker_out.txt - Output of `./run_docker.sh`
 * output_txt_files/kubernetes_out.txt - Output of `./run_kubernetes.sh`
-* Create Flask app in Container
-* Run via kubectl
